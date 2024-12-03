@@ -16,26 +16,39 @@ I work with a variety of tools and technologies to perform data analysis, includ
    - Proficient in data manipulation, pivot tables, and formulas to summarize and analyze datasets.
    - Expertise in creating visually appealing and informative charts.
 
-   ![Excel Logo](https://upload.wikimedia.org/wikipedia/commons/4/43/Microsoft_Excel_2013_logo.svg)
+  <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" height="60"/> </a>
 
 #### 2. **Power BI**
    - Experience in creating interactive dashboards, data models, and insightful reports.
    - Strong ability to visualize data and perform complex analysis with Power Query and DAX.
 
-   ![Power BI Logo](https://upload.wikimedia.org/wikipedia/commons/8/86/Power_BI_Logo.svg)
+<a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
 
 #### 3. **SQL**
    - Proficient in querying databases, writing efficient SQL statements, and performing data extraction.
    - Ability to join, filter, and aggregate data from multiple tables for analysis.
 
-   ![SQL Logo](https://upload.wikimedia.org/wikipedia/commons/8/87/SQL-Server-Logo.svg)
+   <a href="#" target="_blank"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="85"/> </a>
 
 #### 4. **Python**
    - Skilled in data manipulation with libraries like Pandas and NumPy.
    - Experience in data visualization with Matplotlib and Seaborn.
    - Knowledge of web scraping, automation, and building simple predictive models with Scikit-learn.
 
-   ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+   <a href="#" target="_blank"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="60"/> </a>
+
+#### 5. **Pandas**
+   - **Pandas** is an essential library in Python for data analysis and manipulation.
+   - I use Pandas to clean, transform, and analyze large datasets. It's incredibly efficient for tasks like filtering data, handling missing values, merging datasets, and performing aggregation and group operations.
+   - **Key Features:**
+     - **DataFrame & Series:** Easily manipulate and analyze structured data with rows and columns.
+     - **Data Cleaning:** Handle missing data, remove duplicates, and normalize data.
+     - **Data Transformation:** Sort, filter, and group data for deeper insights.
+     - **Merging & Joining:** Combine datasets from multiple sources using SQL-like operations.
+     - **Time Series Analysis:** Handle and manipulate time series data with built-in support.
+
+   <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
+
 
 ---
 
